@@ -7,7 +7,7 @@ npm install cheerio
 
 npm install axios
 
-git clone https://github.com/Xzuya-Dev/bot-coment-fb
+git clone https://github.com/Kazuya-Labs/bot-coment-fb
 
 cd bot-coment-fb
 
